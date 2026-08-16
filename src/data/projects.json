@@ -22,8 +22,8 @@
     "status": "",
     "description": "A relational database developed as a certification project, modeling galaxies, stars, planets, and moons using PostgreSQL. The project includes primary keys, foreign keys, table relationships, constraints, and multiple data types.",
     "link": "",
-    "github": "",
-    "image": "/projects/celestial-database.webp",
+    "github": "https://github.com/leonard-arauz/celestial-bodies-database",
+    "image": "/projects/celestial-bodies-database.webp",
     "tags": ["POSTGRESQL", "SQL"]
   },
   {
