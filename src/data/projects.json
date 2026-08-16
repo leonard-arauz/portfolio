@@ -1,17 +1,39 @@
 [
   {
-    "title": "SVGL - A beautiful library with SVG logos",
-    "description": "Biblioteca de logos SVG de las marcas más populares. +10k visitas al mes. +2K svgs descargados. Creado desde cero con Next.js, React y Tailwind CSS.",
-    "link": "https://svgl.vercel.app/",
-    "github": "https://github.com/pheralb/svgl",
-    "image": "/projects/svgl.webp",
-    "tags": ["NEXT", "TAILWIND"]
+    "title": "AI Business Management System",
+    "status": "In Development",
+    "description": "A business management system built for a real company to centralize inventory, purchases, sales, customers, suppliers, and accounts receivable using PostgreSQL. The platform provides operational workflows and business summaries, with an AI layer in development for natural-language queries and operations.",
+    "link": "",
+    "github": "",
+    "image": "/projects/business-management.webp",
+    "tags": ["POSTGRESQL", "TYPESCRIPT", "NODE", "AI"]
   },
   {
-    "title": "AdventJS - Retos de programación con JavaScript y TypeScript",
-    "description": "Plataforma gratuita con retos de programación. Más de 1 millón de visitas en un mes. +50K retos completados. Creada desde cero con Next.js, React y Tailwind CSS.",
-    "link": "https://adventjs.dev",
-    "image": "/projects/adventjs.webp",
-    "tags": ["NEXT", "TAILWIND"]
+    "title": "IFARMA LABS Corporate Website",
+    "status": "",
+    "description": "A responsive corporate website developed for a medical and pharmaceutical distribution company. The site presents the company's services, product catalog, partner brands, corporate information, and contact channels through a clean and accessible interface.",
+    "link": "https://www.ifarmalabs.com",
+    "github": "",
+    "image": "/projects/ifarma-website.webp",
+    "tags": ["HTML", "CSS", "JAVASCRIPT"]
+  },
+  {
+    "title": "Celestial Bodies Database",
+    "status": "",
+    "description": "A relational database developed as a certification project, modeling galaxies, stars, planets, and moons using PostgreSQL. The project includes primary keys, foreign keys, table relationships, constraints, and multiple data types.",
+    "link": "",
+    "github": "",
+    "image": "/projects/celestial-database.webp",
+    "tags": ["POSTGRESQL", "SQL"]
+  },
+  {
+    "title": "User Settings Manager",
+    "status": "",
+    "description": "A Python project for managing user application settings through create, update, delete, and view operations. The project uses dictionaries, functions, input normalization, validation, and conditional logic to manage configuration data.",
+    "link": "",
+    "github": "https://github.com/leonard-arauz/user-settings-manager",
+    "image": "/projects/python-project-users.webp",
+    "tags": ["PYTHON"]
   }
+  
 ]
